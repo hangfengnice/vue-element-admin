@@ -52,3 +52,9 @@ export default {
   }
 }
 </script>
+
+<style scoped lang='scss'>
+/deep/ .el-submenu__title i {
+  color: #fff;
+}
+</style>
